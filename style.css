@@ -1,0 +1,17 @@
+body {
+    background-color: gold;
+}
+
+/*
+div {
+    background-color: darkred;
+}
+*/
+
+div.legal{
+    background-color: blue;
+}
+
+div#main p.intro{
+    background-color: crimson;
+}
